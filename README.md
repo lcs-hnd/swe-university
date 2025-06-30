@@ -1,10 +1,8 @@
 # <div align='center'>SWE STUDY PLAN</div>
 
-## Table of Contents
+### <div align='left'>Table of Contents</div>
 
-### The Study Plan
-
-- [What is it?](#what-is-it)
+#### The Study Plan
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [A Note About Video Resources](#a-note-about-video-resources)
@@ -17,7 +15,7 @@
 - [Coding Question Practice](#coding-question-practice)
 - [Coding Problems](#coding-problems)
 
-### Topics of Study
+#### Topics of Study
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
@@ -65,7 +63,7 @@
     - [Networking](#networking)
 - [Final Review](#final-review)
 
-### Getting the Job
+#### Getting the Job
 
 - [Update Your Resume](#update-your-resume)
 - [Find a Job](#find-a-job)
@@ -76,7 +74,7 @@
 
 **---------------- Everything below this point is optional ----------------**
 
-### Optional Extra Topics & Resources
+#### Optional Extra Topics & Resources
 
 - [Additional Books](#additional-books)
 - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
