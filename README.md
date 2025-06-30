@@ -1,4 +1,4 @@
-# SWE STUDY PLAN
+# <div align='center'>SWE STUDY PLAN</div>
 
 ## Table of Contents
 
