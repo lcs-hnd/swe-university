@@ -1,5 +1,4 @@
 # SWE STUDY PLAN
-Multi-Month SWE Study Plan
 
 ## Table of Contents
 
