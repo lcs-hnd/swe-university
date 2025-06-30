@@ -1,16 +1,5 @@
 # SWE STUDY PLAN
-## What is it?
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
-
 Multi-Month SWE Study Plan
-
-**Required:**
-* A little experience with coding (variables, loops, methods/functions, etc)
-* Patience
-* Time
-
----
 
 ## Table of Contents
 
